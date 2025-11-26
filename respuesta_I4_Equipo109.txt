@@ -1,5 +1,10 @@
-Candela Villamil (ALFA) Nahuel Diaz (Beta) Santiago Di Viesti (Gamma)
-1- color azul
-2- color yellow
-3- color green
-4- el mismo en los tres
+Candela Villamil (ALFA) Nahuel Diaz (Beta) Santiago Di Viesti (Gamma) 
+1- color azul 
+2- color yellow 
+3- color green 
+4- el mismo en los tres 
+5- Si, Candela le salto un error al pushear en TESTING
+6- Al hacer el push, a Candela le surgió un error por no haber hecho pull con anterioridad
+7- Primero recordar hacer pull en cada rama
+8- El ultimo que haga push -f elimina todos los commits anteriores, solo queda la versión del ultimo colaborador
+9- Hay que hacer git checkout DESARROLLO y de ahí hacer git pull o git fetch
